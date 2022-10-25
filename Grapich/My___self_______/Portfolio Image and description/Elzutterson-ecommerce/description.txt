@@ -1,0 +1,17 @@
+this is an E-commerce front-end website.
+This was converted from Figma design to react js. An extraordinary design at this.
+here used REact js, Styled components, SCSS repossessor,react-router, and many other modern technologies.
+here Aslo integrated a theme system. Here are 3 Specific shops and theme work for each shop. 
+
+live link
++++============+++
+https://fiverr-elzattursun.netlify.app/
+
+about us
++++============+++
+We are an expert team of web developers. We work with React.js, Nodejs, Laravel, WordPress, and many other as you need. 
+Already we have completed 100+ of websites. Our target is to provide clients with an Extraordinary, Modern, User Friendly, and Responsive web application.
+Check out our website: https://sarlex.netlify.app
+
+====thank you====
+sarlex technolgies

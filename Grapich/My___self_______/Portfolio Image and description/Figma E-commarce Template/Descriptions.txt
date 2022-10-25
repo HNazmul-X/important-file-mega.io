@@ -1,0 +1,28 @@
+Welocme to Our Portfolio:
+------------------------------------
+
+it a Ux/UI design of and stock Ecommarce website. About 10 pages are designed here. Homepage, about us, product view, coutry selection, login, signup, etc. You can visit there by this link: 
+
+it is a almost first design of our figma design. But Now our skills are must developed day by day. if you like this or want to more expert design you can Hire us.
+
+==== used tools and technology ==============
+HTMl5,
+css 3,
+boostrap 5,
+Figma,
+javascript 
+
+Live link 
++++============+++
+
+https://www.figma.com/file/C6LabJSPgpNjOwM4CjIUlh/Fiverr-Franked?node-id=0%3A1
+
+
+about us
++++============+++
+We are a Expert team of web developer. We work with React.js , Nodejs, Laravel, wordpress and Many other as you need. 
+Already we have completed 100+ of website. Our target is Provide to client a Extra ordinary , Modern , User Friendly and Responsive web application.
+Check out our website : https://sarlex.netlify.app
+
+====thank you====
+sarlex technolgies

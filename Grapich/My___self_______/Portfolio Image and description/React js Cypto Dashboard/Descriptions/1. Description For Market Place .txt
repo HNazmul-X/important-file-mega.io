@@ -1,0 +1,16 @@
+++++++++ TITLE ++++++++++
+Attractve Dashboard design in React js || React || SCSS || Sass
+Made for a client | please check the portfolio link for confirmation.
+--------------------------------------------------------------
+
+++++ DESCRIPTION ++++++++++++
+It is a Dashboard and doesn't make a Bigger Functionality. I was a Frontend Developer of this Dashboard...
+It Just includes some specific features. API integrated to Binance wallet. Aslo This Dashboard has a light and dark mode feature.
+
+Technology for used for this Dashboard.
+1. React.js
+2. react Router
+3. API Integration.
+
+----About Me ------
+I am a Full Stack Web Developer. Much better expert in front than backend. I invite you to visit my portfolio URL 👉 hnazmul.me

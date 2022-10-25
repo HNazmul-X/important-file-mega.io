@@ -1,0 +1,31 @@
++++++++TITLE++++++++++++
+Poduct Porfolio or Product Promotion website with React js, || scss || Javacript || Boostrap 5
+----------------------------------------------------------
+
++++++++ DESCRTIPTION +++++++++++++++
+Welcome to our Portfolio 
+This a Single page website for Promotion any kind o Product. Here We showing a Mobile. You can promote your product with this Beautiful designed Website. it is also comfortable with Mobile devices, tablets,s, and extra-large Monitors. Many days ago we created it. But now we are developing Our skills day by day. We can Create a Much better website than it. So please contact us for your website.
+Please
+
++++++++ DESCRTIPTION +++++++++++++++
+https://freelancer-monohar-g-10-apr-2021.netlify.app/
+
+
+===== used Tools and Techology ============
+React js,
+Javascript,
+Css3 , 
+Bootstrap 5, 
+Styled Components,
+Font awesome icon with react,
+Vs code,
+
+
+     about us
++++============+++
+We are an expert team of web developers. We work with React.js, Nodejs, Laravel, WordPress, and many other as you need. 
+Already we have completed 100+ websites. Our target is to provide clients with an Extraordinary, Modern, User-Friendly, and Responsive web application.
+Check out our website: https://sarlex.netlify.app
+
+====thank you====
+sarlex technolgies
